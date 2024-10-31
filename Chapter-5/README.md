@@ -1,12 +1,5 @@
 ## Section
 
-https://github.com/hardikparwana/PhD-Thesis/blob/main/Chapter-5/media/default_parameters_720p.mp4
-
-<video src="images/video.mp4" width="320" height="240" controls></video>
-
-![non working video](media/default_parameters_720p.mp4)
-
-
 Default parameters: 
 https://youtu.be/G3gOAOpJPXM
 
