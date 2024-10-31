@@ -1,6 +1,7 @@
 
 Here is an overview video of the whole chapter.
-[Python and gazebo simulations] https://www.youtube.com/watch?v=N94NqPKjRSM
+
+https://www.youtube.com/watch?v=N94NqPKjRSM
 
 ## Extra Video: variation in feasible space (green) as the robot moves around a single obstacle
 https://github.com/user-attachments/assets/faf451fb-64c9-44cd-9125-bef4c485568a
@@ -34,6 +35,8 @@ https://github.com/user-attachments/assets/e19fcb19-24d9-4bc9-afda-74c3a501f3f2
 
 ## Section 3.5.3: Case Study 3: AWS Hospital
 Please see the following video starting at 3:43 for Gazebo simulation videos
+
+https://www.youtube.com/watch?v=N94NqPKjRSM
 
 
 
