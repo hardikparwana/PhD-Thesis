@@ -24,11 +24,11 @@ https://github.com/user-attachments/assets/56d40368-510f-457a-b38d-184c8ffd3663
   https://github.com/user-attachments/assets/196b58a6-85b6-4727-8bc6-9f9c4dddec1f
 
 
-- Case 2: kv = 1.5 with FS-CBF
+- Case 2: kv = 1.5 with **FS-CBF**
 
 https://github.com/user-attachments/assets/39f6c629-8bcb-42b5-aeeb-323db661704f
 
-- Case 3: kv = 2.5 with FS-CBF
+- Case 3: kv = 2.5 with **FS-CBF**
 
 https://github.com/user-attachments/assets/e19fcb19-24d9-4bc9-afda-74c3a501f3f2
 
