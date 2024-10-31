@@ -11,9 +11,12 @@ https://github.com/user-attachments/assets/d78b3092-5771-4bd2-b0f3-cfd160c11c1b
 
 ## Section 3.5.2: Case Study 2: Improving Feasibility and Sensitivity
 -  Case 1
+  
 https://github.com/user-attachments/assets/6045af2f-aef6-4c08-b192-6fe24734e358
 
 - Case 2
+
+  
 https://github.com/user-attachments/assets/56d40368-510f-457a-b38d-184c8ffd3663
 
 - Case 3
