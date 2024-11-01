@@ -13,9 +13,8 @@ https://youtu.be/G3gOAOpJPXM
 
 [![IMAGE ALT TEXT HERE]([./docs/flightmare_main.png](https://github.com/user-attachments/assets/29f48cce-bebc-4393-9924-95cc655f5ede))](https://youtu.be/G3gOAOpJPXM)
 
-{% include youtube.html id="G3gOAOpJPXM" %}
 
-![Screenshot from 2024-11-01 12-28-36](https://github.com/user-attachments/assets/29f48cce-bebc-4393-9924-95cc655f5ede)
+
 
 
  Proposed: 
