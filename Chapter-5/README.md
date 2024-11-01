@@ -11,8 +11,12 @@ Th objective for the follower is to keep leader inside the field-of-view and, pr
 Default parameters: 
 https://youtu.be/G3gOAOpJPXM
 
+{% include youtube.html id="G3gOAOpJPXM" %}
+
  Proposed: 
 https://youtu.be/ibTU8vpVa34
+
+{% include youtube.html id="ibTU8vpVa34" %}
 
 ## Section 5.5: Risk-aware MPPI for Stochastic Hybrid Systems
 
