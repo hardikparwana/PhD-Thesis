@@ -11,7 +11,7 @@ Th objective for the follower is to keep leader inside the field-of-view and, pr
 Default parameters: 
 https://youtu.be/G3gOAOpJPXM
 
-[![IMAGE ALT TEXT HERE]([./docs/flightmare_main.png](https://github.com/user-attachments/assets/29f48cce-bebc-4393-9924-95cc655f5ede))](https://youtu.be/G3gOAOpJPXM)
+[![IMAGE ALT TEXT HERE]((https://github.com/user-attachments/assets/29f48cce-bebc-4393-9924-95cc655f5ede))](https://youtu.be/G3gOAOpJPXM)
 
 
 
@@ -27,3 +27,6 @@ https://youtu.be/ibTU8vpVa34
 [Python and gazebo simulations](https://youtu.be/0JyLC5gSw8g)
 
 https://github.com/user-attachments/assets/c75edbed-d587-4282-b8d9-2c74940301af
+
+
+![Screenshot from 2024-11-01 12-28-36](https://github.com/user-attachments/assets/29f48cce-bebc-4393-9924-95cc655f5ede)
