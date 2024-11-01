@@ -11,7 +11,7 @@ Th objective for the follower is to keep leader inside the field-of-view and, pr
 Default parameters: 
 https://youtu.be/G3gOAOpJPXM
 
-[![IMAGE ALT TEXT HERE]((https://github.com/user-attachments/assets/29f48cce-bebc-4393-9924-95cc655f5ede))](https://youtu.be/G3gOAOpJPXM)
+[![IMAGE ALT TEXT HERE](https://github.com/user-attachments/assets/29f48cce-bebc-4393-9924-95cc655f5ede)](https://youtu.be/G3gOAOpJPXM)
 
 
 
